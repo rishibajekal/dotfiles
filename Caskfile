@@ -9,3 +9,6 @@ cask install google-chrome 2> /dev/null
 cask install sublime-text 2> /dev/null
 cask install the-unarchiver 2> /dev/null
 cask install vlc 2> /dev/null
+
+# Add Caskroom to Alfred search paths
+cask alfred link
